@@ -37,3 +37,8 @@ Make sure to place your actual screenshots in a /screenshots folder in your repo
 🔗 Live Demo
 Try the deployed app here:
 👉 [Click to open Resume Classifier](http://localhost:8501/) 
+Choose app theme, colors and fonts for better visibility.
+
+
+Thankyou
+       ANSHUL SAHARE
