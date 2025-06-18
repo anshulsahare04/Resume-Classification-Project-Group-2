@@ -36,7 +36,7 @@ Development: Jupyter Notebook
 
 🔗 Live Demo
 Try the deployed app here:
-👉 [Click to open Resume Classifier](http://localhost:8501/) 
+👉 [Click to open Resume Classifier](https://customer-segmentation-group3-frpsoks6z39hztq9nsh3b6.streamlit.app/) 
 Choose app theme, colors and fonts for better visibility.
 
 
